@@ -1,0 +1,46 @@
+body{
+  background-image: url(rajsthan.jpeg)
+
+}
+
+
+header{
+    background-color: darksalmon;
+    text-align: center;
+}
+
+.h1{
+    text-align: center;
+}
+
+
+.footer {
+    background-color: darksalmon;
+    padding: 1rem 1rem;
+    text-align: center;
+    box-sizing: 1rem;
+  }
+  .footer .footer-header {
+    font-weight: bold;
+    font-size: large;
+  }
+  
+  .footer ul {
+    padding-inline-start: 1px;
+  }
+
+
+  .blog-body {
+  
+    padding: 2rem;
+    border-radius: 1rem;
+    text-align: center;
+    margin: 4rem auto;
+  }
+  .blog-body h1 { 
+    margin: 0.5rem;
+   }
+  
+  .blog-body p {
+    padding-bottom: 1rem;
+  } 
